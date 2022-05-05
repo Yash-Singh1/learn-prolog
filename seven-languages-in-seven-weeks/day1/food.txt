@@ -1,0 +1,5 @@
+Let's say you want to loop through the possibilities. For example, in food_flavor
+pass it one argument with an actual value and another argument with What. You will
+then be prompted on what What is. Type in ; to skip to next. Type in a to get all.
+Press ENTER to select the current option given. You can have multiple prompts with
+using A and B for both the arguments.

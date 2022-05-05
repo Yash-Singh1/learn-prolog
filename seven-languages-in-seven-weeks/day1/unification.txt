@@ -1,0 +1,4 @@
+The concept presented in ohmy.pl is known as unification.
+Unification ensures using the assignment operator that a specific argument is of a
+certain value. For example, in the case of the fact dorothy, X, Y, and Z must match
+to the assignments present in the fact.

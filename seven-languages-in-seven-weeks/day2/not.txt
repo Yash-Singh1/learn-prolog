@@ -1,0 +1,9 @@
+not operator self-study
+----
+
+The not operator is logical negation in prolog. It is a rule that negates
+the value of its input. However, due to bad compatibility, it is best to
+use the \+ operator instead. Logical negation in prolog is problematic
+because the interpreter has to prove a statement to prove that it isn't true.
+This can take infinite time because of logical loopholes and you have to be
+careful when using logical negation.

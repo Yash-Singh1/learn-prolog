@@ -1,0 +1,5 @@
+Lists and tuples can also be used in prolog.
+Lists are wrapped in brackets, and tuples are wrapped in parentheses.
+
+[1, 2, 3]
+(1, 2, 3)

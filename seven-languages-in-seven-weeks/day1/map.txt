@@ -1,0 +1,2 @@
+This example shows the power of inference in prolog.
+Notice how facts can be multiple lines.
